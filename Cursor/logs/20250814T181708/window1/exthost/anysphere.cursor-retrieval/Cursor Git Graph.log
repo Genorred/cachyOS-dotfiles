@@ -1,0 +1,48 @@
+2025-08-14 18:17:13.469 [info] Using repo backend url https://repo42.cursor.sh
+2025-08-14 18:17:15.409 [error] Failed to get git graph client
+2025-08-14 18:22:17.411 [error] Failed to get git graph client
+2025-08-14 18:27:17.411 [error] Failed to get git graph client
+2025-08-14 18:32:17.411 [error] Failed to get git graph client
+2025-08-14 18:37:17.411 [error] Failed to get git graph client
+2025-08-14 18:42:17.411 [error] Failed to get git graph client
+2025-08-14 18:47:17.411 [error] Failed to get git graph client
+2025-08-14 18:52:17.411 [error] Failed to get git graph client
+2025-08-14 18:57:17.411 [error] Failed to get git graph client
+2025-08-14 19:02:17.412 [error] Failed to get git graph client
+2025-08-14 19:07:17.412 [error] Failed to get git graph client
+2025-08-14 19:12:17.412 [error] Failed to get git graph client
+2025-08-14 19:17:17.412 [error] Failed to get git graph client
+2025-08-14 19:22:17.412 [error] Failed to get git graph client
+2025-08-14 19:27:17.413 [error] Failed to get git graph client
+2025-08-14 19:32:17.412 [error] Failed to get git graph client
+2025-08-14 19:37:19.138 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 19:42:15.540 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 19:47:15.544 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 19:52:15.544 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 19:57:15.545 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:02:15.549 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:07:15.546 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:12:15.546 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:17:15.549 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:22:15.751 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:27:15.546 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:32:15.555 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:37:15.522 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:42:15.523 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:47:15.767 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:52:15.523 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 20:57:15.526 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:02:15.523 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:07:15.525 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:12:15.523 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:17:15.526 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:22:15.526 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:27:15.531 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:32:15.528 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:37:15.530 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:42:15.530 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:47:15.528 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:52:15.530 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 21:57:16.082 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 22:02:15.617 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404
+2025-08-14 22:07:15.640 [error] Failed to check if git graph is enabled [unimplemented] HTTP 404

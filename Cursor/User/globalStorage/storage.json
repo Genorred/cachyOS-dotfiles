@@ -1,0 +1,66 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.macMachineId": "d65df2bd2ad02572919c3212852c61612db9ea24aa2b118a697218b64ce1c789",
+    "telemetry.machineId": "e2d2054916e1b5b115d16135cffe5a863ddf67c67abd88752b109b4cf4c04f41",
+    "telemetry.devDeviceId": "b47584c7-5ff1-4ed4-9c2b-10e944daaff4",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1755188228657"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1755188228657": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/genorred/.config/Cursor/Backups/1755188228657",
+            "uiState": {
+                "mode": 1,
+                "x": 8,
+                "y": 68,
+                "width": 1904,
+                "height": 1004
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "hc-black",
+    "themeBackground": "#0a0a0a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "hc-black",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#0a0a0a",
+            "editorBackground": "#0a0a0a",
+            "titleBarBackground": "#0a0a0a",
+            "titleBarBorder": "rgba(255, 255, 255, 0.1)",
+            "activityBarBackground": "#0a0a0a",
+            "activityBarBorder": "#6fc3df",
+            "sideBarBackground": "#0a0a0a",
+            "sideBarBorder": "rgba(255, 255, 255, 0.1)",
+            "statusBarBackground": "#0a0a0a",
+            "statusBarBorder": "rgba(42, 42, 42, 0)",
+            "statusBarNoFolderBackground": "#0a0a0a",
+            "windowBorder": "#6fc3df"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 378,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

@@ -1,0 +1,54 @@
+2025-08-14 18:17:11.661 [info] Getting extensions control
+2025-08-14 18:22:12.052 [info] Getting extensions control
+2025-08-14 18:27:12.182 [info] Getting extensions control
+2025-08-14 18:32:12.295 [info] Getting extensions control
+2025-08-14 18:37:12.410 [info] Getting extensions control
+2025-08-14 18:42:12.591 [info] Getting extensions control
+2025-08-14 18:42:14.778 [error] Error getting extensions control manifest Could not get extensions report.
+2025-08-14 18:47:14.781 [info] Getting extensions control
+2025-08-14 18:52:14.896 [info] Getting extensions control
+2025-08-14 18:57:15.176 [info] Getting extensions control
+2025-08-14 19:02:15.306 [info] Getting extensions control
+2025-08-14 19:07:15.421 [info] Getting extensions control
+2025-08-14 19:12:15.564 [info] Getting extensions control
+2025-08-14 19:17:15.676 [info] Getting extensions control
+2025-08-14 19:22:15.788 [info] Getting extensions control
+2025-08-14 19:27:16.115 [info] Getting extensions control
+2025-08-14 19:32:16.228 [info] Getting extensions control
+2025-08-14 19:35:58.267 [info] Getting Manifest... vscodevim.vim
+2025-08-14 19:35:59.275 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/genorred/.cursor/extensions/extensions.json","path":"/home/genorred/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.4.5","date":"2025-08-13T02:08:56.371Z","vscodeVersion":"1.99.3"}}
+2025-08-14 19:35:59.320 [info] Started downloading extension: vscodevim.vim 1.30.1 file:///home/genorred/.config/Cursor/CachedExtensionVSIXs/vscodevim.vim-1.30.1-universal
+2025-08-14 19:36:00.725 [info] Extracted extension to file:///home/genorred/.cursor/extensions/vscodevim.vim-1.30.1-universal: vscodevim.vim
+2025-08-14 19:36:00.730 [info] Renamed to /home/genorred/.cursor/extensions/vscodevim.vim-1.30.1-universal
+2025-08-14 19:36:00.748 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/genorred/.cursor/extensions/extensions.json
+2025-08-14 19:37:16.341 [info] Getting extensions control
+2025-08-14 19:42:16.481 [info] Getting extensions control
+2025-08-14 19:47:16.612 [info] Getting extensions control
+2025-08-14 19:52:16.751 [info] Getting extensions control
+2025-08-14 19:57:16.887 [info] Getting extensions control
+2025-08-14 20:02:17.001 [info] Getting extensions control
+2025-08-14 20:07:17.160 [info] Getting extensions control
+2025-08-14 20:12:17.295 [info] Getting extensions control
+2025-08-14 20:17:17.430 [info] Getting extensions control
+2025-08-14 20:22:17.544 [info] Getting extensions control
+2025-08-14 20:27:18.197 [info] Getting extensions control
+2025-08-14 20:32:19.987 [info] Getting extensions control
+2025-08-14 20:37:20.227 [info] Getting extensions control
+2025-08-14 20:42:20.346 [info] Getting extensions control
+2025-08-14 20:47:20.458 [info] Getting extensions control
+2025-08-14 20:52:20.636 [info] Getting extensions control
+2025-08-14 20:57:20.749 [info] Getting extensions control
+2025-08-14 21:02:20.911 [info] Getting extensions control
+2025-08-14 21:07:21.047 [info] Getting extensions control
+2025-08-14 21:12:21.186 [info] Getting extensions control
+2025-08-14 21:17:21.319 [info] Getting extensions control
+2025-08-14 21:22:21.431 [info] Getting extensions control
+2025-08-14 21:27:21.552 [info] Getting extensions control
+2025-08-14 21:32:21.730 [info] Getting extensions control
+2025-08-14 21:37:22.148 [info] Getting extensions control
+2025-08-14 21:42:22.307 [info] Getting extensions control
+2025-08-14 21:47:22.544 [info] Getting extensions control
+2025-08-14 21:52:22.783 [info] Getting extensions control
+2025-08-14 21:57:23.020 [info] Getting extensions control
+2025-08-14 22:02:23.258 [info] Getting extensions control
+2025-08-14 22:07:24.050 [info] Getting extensions control

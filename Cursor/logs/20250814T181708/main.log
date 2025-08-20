@@ -1,0 +1,11 @@
+2025-08-14 18:17:08.576 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.4.5/e2d2054916e1b5b115d16135cffe5a863ddf67c67abd88752b109b4cf4c04f41/stable
+2025-08-14 18:17:08.577 [info] update#setState idle
+2025-08-14 18:17:38.577 [info] update#setState checking for updates
+2025-08-14 18:17:38.694 [info] update#setState idle
+2025-08-14 19:17:38.580 [info] update#setState checking for updates
+2025-08-14 19:17:39.160 [info] update#setState idle
+2025-08-14 20:17:38.582 [info] update#setState checking for updates
+2025-08-14 20:17:39.170 [info] update#setState idle
+2025-08-14 21:17:38.584 [info] update#setState checking for updates
+2025-08-14 21:17:38.974 [info] update#setState idle
+2025-08-14 22:07:41.851 [info] Extension host with pid 181046 exited with code: 0, signal: unknown.

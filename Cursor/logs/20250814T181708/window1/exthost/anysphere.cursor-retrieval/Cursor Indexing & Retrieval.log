@@ -1,0 +1,37 @@
+2025-08-14 18:17:13.469 [error] Error getting repo info: Failed to execute git
+2025-08-14 18:17:13.469 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1347452)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1320321)
+2025-08-14 18:17:13.730 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-14 18:17:13.731 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2025-08-14 18:17:13.731 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '.git/HEAD')
+2025-08-14 18:17:14.092 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-14 18:17:14.115 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-14 18:27:10.629 [error] Error getting user commits: Failed to execute git
+2025-08-14 18:37:10.684 [error] Error getting user commits: Failed to execute git
+2025-08-14 18:47:10.627 [error] Error getting user commits: Failed to execute git
+2025-08-14 18:57:10.666 [error] Error getting user commits: Failed to execute git
+2025-08-14 19:07:10.691 [error] Error getting user commits: Failed to execute git
+2025-08-14 19:17:10.681 [error] Error getting user commits: Failed to execute git
+2025-08-14 19:27:10.691 [error] Error getting user commits: Failed to execute git
+2025-08-14 19:34:49.273 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-14 19:34:49.273 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-14 19:34:49.273 [error] NoWorkspaceUriError
+2025-08-14 19:37:10.705 [error] Error getting user commits: Failed to execute git
+2025-08-14 19:47:10.666 [error] Error getting user commits: Failed to execute git
+2025-08-14 19:57:10.661 [error] Error getting user commits: Failed to execute git
+2025-08-14 20:07:10.676 [error] Error getting user commits: Failed to execute git
+2025-08-14 20:17:10.656 [error] Error getting user commits: Failed to execute git
+2025-08-14 20:27:10.669 [error] Error getting user commits: Failed to execute git
+2025-08-14 20:37:10.705 [error] Error getting user commits: Failed to execute git
+2025-08-14 20:47:10.729 [error] Error getting user commits: Failed to execute git
+2025-08-14 20:57:10.704 [error] Error getting user commits: Failed to execute git
+2025-08-14 21:07:10.692 [error] Error getting user commits: Failed to execute git
+2025-08-14 21:17:10.693 [error] Error getting user commits: Failed to execute git
+2025-08-14 21:27:10.702 [error] Error getting user commits: Failed to execute git
+2025-08-14 21:37:10.701 [error] Error getting user commits: Failed to execute git
+2025-08-14 21:47:10.685 [error] Error getting user commits: Failed to execute git
+2025-08-14 21:57:10.724 [error] Error getting user commits: Failed to execute git
+2025-08-14 22:07:10.687 [error] Error getting user commits: Failed to execute git
